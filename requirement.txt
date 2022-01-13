@@ -1,1 +1,3 @@
 check on git push
+
+check if new commits are being pushed to bitbucket
